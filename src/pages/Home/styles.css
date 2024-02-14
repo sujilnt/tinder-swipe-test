@@ -18,6 +18,8 @@
     display: flex;
     justify-content: center;
     margin-top: 5vh;
+    height: 60vh;
+    margin-bottom: 5%;
 }
 
 .swipe {
